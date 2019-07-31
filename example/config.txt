@@ -1,0 +1,2 @@
+Prefix plugins/GPUKMM/example/
+Plugin GPUKMM inputfile 8mertest.txt outputfile 8mertest.bestmatches.txt
