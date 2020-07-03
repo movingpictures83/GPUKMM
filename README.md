@@ -2,7 +2,7 @@
 # Language: CUDA
 # Input: TXT (list of input values)
 # Output: TXT (list of best scoring sequences)
-# Tested with: PluMA 1.0, CUDA 8.0
+# Tested with: PluMA 1.0, CUDA 10
 
 PluMA plugin that runs k-Markov Models (kMMs) to find the best match over
 a set of metagenomics sequence data, for each of a given set of target sequences.
